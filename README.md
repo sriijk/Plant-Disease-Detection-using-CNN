@@ -47,5 +47,7 @@ plant-disease-app/ │ ├── main.py # Streamlit app code ├── plant_di
 pip install -r requirements.txt
 
 
+
+
 ## Run the app
 streamlit run main.py
